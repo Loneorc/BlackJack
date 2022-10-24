@@ -135,7 +135,7 @@ public class Main {
         int playerHandValue = 0;
         String playerHand = "";
         int counter = 0;
-        int money = 100;
+        int money = 50; //Changed from 100
         int dealerHandValue = 0;
         String dealerHand = "";
 

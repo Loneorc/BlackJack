@@ -166,7 +166,7 @@ public class Main {
                     if (playerHandValue == 21) {
                         money += 100;
 
-                        System.out.println("YOU WON! BLACKJACK! ;)");
+                        System.out.println("YOU WON! BLACKJACK!!!! ;)");
                         System.out.println("\nYour cards are: " + "\n" + playerHand);
                         System.out.println("Your cards value is: " + playerHandValue + ".");
                         System.out.println("Your balance is: " + money);

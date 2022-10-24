@@ -129,7 +129,7 @@ public class Main {
         System.out.println("* You start with 500 chips.");
         System.out.println("* Each bet is 50 chips. If you win you take twice your bet.");
         System.out.println();
-        System.out.println("Let's play!");
+        System.out.println("Let's play!!!!!!!");
         System.out.println();
 
         int playerHandValue = 0;
